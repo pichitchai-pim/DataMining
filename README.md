@@ -5,8 +5,8 @@ data mining project for everyone
 
 1. Import libraries
 2. Import data
-  Read from csv
-  Connect to a database
+- Read from csv
+- Connect to a database
 3. Metadata and data types
 - Metadata
 - Modify data types
